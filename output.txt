@@ -1,0 +1,35 @@
+Station Name: Beef Island, Tortola
+Temperature: 31
+Latitude: 18.433332
+Longitude: -64.51667
+Date/Time: 2019-08-12 20:00:00
+Humidity: 66
+Clouds: scattered clouds
+
+Station Name: New Castle, New Castle Municipal Airport
+Temperature: 27.8
+Latitude: 41.033333
+Longitude: -80.416664
+Date/Time: 2019-08-12 19:56:00
+Humidity: 49
+Clouds: broken clouds
+
+Station Name: Lompoc, Vandenberg Air Force Base
+Temperature: 16.3
+Latitude: 34.733334
+Longitude: -120.583336
+Date/Time: 2019-08-12 18:55:00
+Humidity: 88
+Clouds: few clouds
+
+Station Name: Mount Airy, Mount Airy/Surry County Airport
+Temperature: 29.6
+Latitude: 36.466667
+Longitude: -80.55
+Date/Time: 2019-08-12 19:55:00
+Humidity: 70
+Clouds: scattered clouds
+
+Max : 31.0
+Min : 16.3
+Average : 26.174999999999997
